@@ -1,7 +1,7 @@
 var canvas,bg;
 var together;
-var tom, tomImg1,tomImg2,tomImg3;
-var jerry, jerryImg1,jerryImg2,jerryImg3;
+var tom, tomImg1,tomImg23,tomImg4;
+var jerry, jerryImg1,jerryImg23,jerryImg4;
 
 function preload() {
     bg = loadImage("images/garden.png");
